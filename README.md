@@ -1,4 +1,4 @@
-# King-County-House-Buyer-Help
+# King-County-Homebuyer-Help
 Flatiron Project 2
 King County 
 Homebuyer Help
