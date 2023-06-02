@@ -29,7 +29,7 @@ We further narrowed the scope of our research to focus on the technology hub in 
 
 After focusing on the correlation between square feet of living and price, we turned our attention to the feature that had the second heaviest weight, the number of bathrooms.  What was observed was that the number of bathrooms has a direct correlation with the price of the house. However, the data is slightly skewed by the limited data points with houses beyond six bathrooms. 
 
-<img width="491" alt="Screen Shot 2023-06-02 at 1 44 42 PM" src="https://github.com/ewestrich/King-County-House-Sales/assets/130884190/841fd896-db99-4c94-bade-bcfdbd281a52">
+<img width="607" alt="Screen Shot 2023-06-02 at 1 56 01 PM" src="https://github.com/ewestrich/King-County-House-Sales/assets/130884190/aaba048d-0c76-4df2-8d85-e54c1e8a69d8">
 
 
 
