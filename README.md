@@ -35,40 +35,6 @@ After focusing on the correlation between square feet of living and price, we tu
 
 ## Results
 We fit the following data into a multivariable linear regression model to establish a fairly accurate price guage, based upon features represented within the data. We achieved an R-square score of .66 indicating that our predicted value will fall with 66 percent accuracy.
-Results:
-OLS Regression Results
-Dep. Variable:
-price
-R-squared:
-0.660
-Model:
-OLS
-Adj. R-squared:
-0.659
-Method:
-Least Squares
-F-statistic:
-552.2
-Date:
-Fri, 02 Jun 2023
-Prob (F-statistic):
-0.00
-Time:
-09:43:35
-Log-Likelihood:
--4.2515e+05
-No. Observations:
-29149
-AIC:
-8.505e+05
-Df Residuals:
-29046
-BIC:
-8.514e+05
-Df Model:
-102
-Covariance Type:
-Nonrobust  
 
 
 
