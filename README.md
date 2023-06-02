@@ -37,7 +37,8 @@ After focusing on the correlation between square feet of living and price, we tu
 We fit the following data into a multivariable linear regression model to establish a fairly accurate price guage, based upon features represented within the data. We achieved an R-square score of .66 indicating that our predicted value will fall with 66 percent accuracy.
 
 <p align="center">
-![asgrvad afcea sZ](https://github.com/ewestrich/King-County-House-Sales/assets/130884190/7646773c-f1ab-440f-8e6e-f196783d913e)
+
+![asgrvad afcea sZ](https://github.com/ewestrich/King-County-House-Sales/assets/130884190/1434c4f9-d8ae-46b0-82fe-93816ec14025)
 
 ## Analysis of Model
 Our final model includes aspects of all numerical, ordinal, and nominal categories from our data frame and the influence of each category on our predicted price. About 65% of the variability observed in the sale price is explained by the regression model. Our model is a predictor of house prices based on certain features in King County. Some coefficients to note that have an increase in house sale price include bathrooms, sqft_living, sqft_above, sqft_basement, sqft_patio, grade, condition, and view. The following visual further explains the effectiveness of predicting price by fitting a regression line between the actual and predicted price value. 
