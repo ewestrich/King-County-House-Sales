@@ -18,24 +18,25 @@ A data source that provided the following information; date, number of floors, w
 ## Methods
 The majority of the dataset pertained to houses sold in King County, Washington, but there were several outliers that needed to be addressed. After focusing on just King County we performed a heatmap to show any correlations between the different features and prices. 
 
-
+<p align="center">
 <img width="448" alt="Screen Shot 2023-06-02 at 2 07 07 PM" src="https://github.com/ewestrich/King-County-House-Sales/assets/130884190/f61515d9-39d9-4d77-bb2e-0bca9d4449f0">
 
  From the following graphic we were able to identify number of bathrooms and square feet of living has the greatest correlation to the price of the house. The number of bathrooms has a .49 correlation while Sqft_living has a .62 correlation on our heatmap. 
+ <p align="center">
 <img width="553" alt="Screen Shot 2023-06-02 at 1 42 58 PM" src="https://github.com/ewestrich/King-County-House-Sales/assets/130884190/3dd710a7-aec3-44ac-9830-e0342fe641e0">
 
 
 We further narrowed the scope of our research to focus on the technology hub in downtown Seattle. In particular, we identified Amazon as the largest employer and point of interest to wanna-be buyers. The range was focused to be a 3-mile radius around Amazon Center. What was discovered was a strong correlation between the price of houses with the sqft_living. We were able to form a regression line to model the relationship. 
 
 After focusing on the correlation between square feet of living and price, we turned our attention to the feature that had the second heaviest weight, the number of bathrooms.  What was observed was that the number of bathrooms has a direct correlation with the price of the house. However, the data is slightly skewed by the limited data points with houses beyond six bathrooms. 
-
+<p align="center">
 <img width="607" alt="Screen Shot 2023-06-02 at 1 56 01 PM" src="https://github.com/ewestrich/King-County-House-Sales/assets/130884190/aaba048d-0c76-4df2-8d85-e54c1e8a69d8">
 
 
 
 ## Results
 We fit the following data into a multivariable linear regression model to establish a fairly accurate price guage, based upon features represented within the data. We achieved an R-square score of .66 indicating that our predicted value will fall with 66 percent accuracy.
-
+<p align="center">
 <img width="504" alt="Screen Shot 2023-06-02 at 1 58 17 PM" src="https://github.com/ewestrich/King-County-House-Sales/assets/130884190/f1a713d0-91d1-4c7c-a701-7207c9bb2822">
 
 
