@@ -36,7 +36,7 @@ After focusing on the correlation between square feet of living and price, we tu
 ## Results
 We fit the following data into a multivariable linear regression model to establish a fairly accurate price guage, based upon features represented within the data. We achieved an R-square score of .66 indicating that our predicted value will fall with 66 percent accuracy.
 
-<p align="center">
+
 
 ![asgrvad afcea sZ](https://github.com/ewestrich/King-County-House-Sales/assets/130884190/1434c4f9-d8ae-46b0-82fe-93816ec14025)
 
