@@ -31,11 +31,11 @@ from sklearn.preprocessing import PolynomialFeatures
 # In[38]:
 
 
-st.title("King County Housing Interactive Dashboard")
+st.title("King County Housing Help Interactive Dashboard")
 
 #st.header(" Housing Predictive Model Widget")
 
-st.subheader("Map of Kings County, WA Housing Data")
+st.subheader("Map of Kings County, WA Housing Data (3 Mi. from Amazon HQ)")
 
 
 # In[39]:
