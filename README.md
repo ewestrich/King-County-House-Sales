@@ -40,7 +40,8 @@ We fit the following data into a multivariable linear regression model to establ
 
 ## Analysis of Model
 Our final model includes aspects of all numerical, ordinal, and nominal categories from our data frame and the influence of each category on our predicted price. About 65% of the variability observed in the sale price is explained by the regression model. Our model is a predictor of house prices based on certain features in King County. Some coefficients to note that have an increase in house sale price include bathrooms, sqft_living, sqft_above, sqft_basement, sqft_patio, grade, condition, and view. The following visual further explains the effectiveness of predicting price by fitting a regression line between the actual and predicted price value. 
-<img width="517" alt="Screen Shot 2023-06-02 at 1 42 53 PM" src="https://github.com/ewestrich/King-County-House-Sales/assets/130884190/9c856a1e-8535-47e5-99d7-21df2fff45e4">
+
+<img width="225" alt="Screen Shot 2023-06-02 at 1 55 00 PM" src="https://github.com/ewestrich/King-County-House-Sales/assets/130884190/1da8cd5c-09fa-4905-a303-757cef693b63">
 
 ## Further Exploration Through Feature Tooling 
 
