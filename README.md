@@ -18,12 +18,18 @@ A data source that provided the following information; date, number of floors, w
 ## Methods
 The majority of the dataset pertained to houses sold in King County, Washington, but there were several outliers that needed to be addressed. After focusing on just King County we performed a heatmap to show any correlations between the different features and prices. 
 
+<img width="477" alt="Screen Shot 2023-06-02 at 1 42 48 PM" src="https://github.com/ewestrich/King-County-House-Sales/assets/130884190/b20f7524-c7a1-491d-a1e6-9cf97787b096">
+
+
  From the following graphic we were able to identify number of bathrooms and square feet of living has the greatest correlation to the price of the house. The number of bathrooms has a .49 correlation while Sqft_living has a .62 correlation on our heatmap. 
+<img width="553" alt="Screen Shot 2023-06-02 at 1 42 58 PM" src="https://github.com/ewestrich/King-County-House-Sales/assets/130884190/3dd710a7-aec3-44ac-9830-e0342fe641e0">
 
 
 We further narrowed the scope of our research to focus on the technology hub in downtown Seattle. In particular, we identified Amazon as the largest employer and point of interest to wanna-be buyers. The range was focused to be a 3-mile radius around Amazon Center. What was discovered was a strong correlation between the price of houses with the sqft_living. We were able to form a regression line to model the relationship. 
 
 After focusing on the correlation between square feet of living and price, we turned our attention to the feature that had the second heaviest weight, the number of bathrooms.  What was observed was that the number of bathrooms has a direct correlation with the price of the house. However, the data is slightly skewed by the limited data points with houses beyond six bathrooms. 
+
+<img width="491" alt="Screen Shot 2023-06-02 at 1 44 42 PM" src="https://github.com/ewestrich/King-County-House-Sales/assets/130884190/841fd896-db99-4c94-bade-bcfdbd281a52">
 
 
 
@@ -68,6 +74,7 @@ Nonrobust
 
 ## Analysis of Model
 Our final model includes aspects of all numerical, ordinal, and nominal categories from our data frame and the influence of each category on our predicted price. About 65% of the variability observed in the sale price is explained by the regression model. Our model is a predictor of house prices based on certain features in King County. Some coefficients to note that have an increase in house sale price include bathrooms, sqft_living, sqft_above, sqft_basement, sqft_patio, grade, condition, and view. The following visual further explains the effectiveness of predicting price by fitting a regression line between the actual and predicted price value. 
+<img width="517" alt="Screen Shot 2023-06-02 at 1 42 53 PM" src="https://github.com/ewestrich/King-County-House-Sales/assets/130884190/9c856a1e-8535-47e5-99d7-21df2fff45e4">
 
 ## Further Exploration Through Feature Tooling 
 
