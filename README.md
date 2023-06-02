@@ -2,7 +2,7 @@
 Flatiron Project 2
 King County 
 Homebuyer Help
-Daniel Cotler, Justin Lapidus, Eitan Westrickh
+Daniel Cotler, Justin Lapidus, Eitan Westrick
  
 ## Overview
 We have been tasked with analyzing the data on houses in King County, Washington. Our goal is to help prospective buyers understand the housing market better. We did this by creating predictions about the sale price of houses, in King County, based on different features. After creating a linear regression model and constructing a predictive model, we determined that the features with the largest weight, and the strongest correlation to price were square feet of living space and the number of bathrooms.
