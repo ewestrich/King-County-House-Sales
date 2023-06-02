@@ -18,8 +18,8 @@ A data source that provided the following information; date, number of floors, w
 ## Methods
 The majority of the dataset pertained to houses sold in King County, Washington, but there were several outliers that needed to be addressed. After focusing on just King County we performed a heatmap to show any correlations between the different features and prices. 
 
-<img width="477" alt="Screen Shot 2023-06-02 at 1 42 48 PM" src="https://github.com/ewestrich/King-County-House-Sales/assets/130884190/b20f7524-c7a1-491d-a1e6-9cf97787b096">
 
+<img width="448" alt="Screen Shot 2023-06-02 at 2 07 07 PM" src="https://github.com/ewestrich/King-County-House-Sales/assets/130884190/f61515d9-39d9-4d77-bb2e-0bca9d4449f0">
 
  From the following graphic we were able to identify number of bathrooms and square feet of living has the greatest correlation to the price of the house. The number of bathrooms has a .49 correlation while Sqft_living has a .62 correlation on our heatmap. 
 <img width="553" alt="Screen Shot 2023-06-02 at 1 42 58 PM" src="https://github.com/ewestrich/King-County-House-Sales/assets/130884190/3dd710a7-aec3-44ac-9830-e0342fe641e0">
