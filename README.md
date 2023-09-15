@@ -1,14 +1,12 @@
 # King-County-Homebuyer-Help
-Flatiron Project 2
-King County 
-Homebuyer Help
+King County Homebuyer Help
 Daniel Cotler, Justin Lapidus, Eitan Westrich
  
 ## Overview
-We have been tasked with analyzing the data on houses in King County, Washington. Our goal is to help prospective buyers understand the housing market better. We did this by creating predictions about the sale price of houses, in King County, based on different features. After creating a linear regression model and constructing a predictive model, we determined that the features with the largest weight, and the strongest correlation to price were square feet of living space and the number of bathrooms.
-## Business Problem
-King County is the most populous county in the state of Washington and the thirteenth most popular in the United States of America. In Kings County, the largest populated city is Seattle with a total of over 700,000 people. Recently, Seattle has made itself a home to new innovations. Starbucks, Costco, and Microsoft are just a few of the titans of the industry located within. Additionally, the largest employer of the county is Amazon with over 75000 employees in Washington alone. The new influx of business created a pipeline for new prospective workers. These workers are searching for employment and housing options. However, the process of resettling is more complex than expected. Questions begin to compound and answers are seldom found. 
+We have been tasked with analyzing the data on houses in King County, Washington. Our goal is to help prospective buyers understand the housing market better. We did this by creating a predictive model of the sale price of houses, in King County, based on different features. After building and assesing our regression model, we determined that the features with the largest weight, and the strongest correlation to price, were square feet of living space and number of bathrooms.
 
+## Business Problem
+King County is the most populous county in the state of Washington and the thirteenth most popular in the United States of America. In Kings County, the largest populated city is Seattle with a total of over 700,000 people. Recently, Seattle has made itself a home to new innovations. Starbucks, Costco, and Microsoft are just a few of the titans of the industry located within. Additionally, the largest employer of the county is Amazon with over 75,000 employees in Washington alone. The new influx of business created a pipeline for new prospective workers. These workers are searching for employment and housing options. However, the process of resettling is more complex than expected. Questions begin to compound and answers are seldom found. 
 
 ## Data
 We utilized a few different data sources for our model so that we could obtain a comprehensive and accurate prediction of home prices.
@@ -51,6 +49,6 @@ In order to create a real-world application of our data, our team devised a tool
 ## Recommendations
 
 Our recommendations are as follows:
-increase the square footage of living space by adding housing extension
-Purchase a less expensive home, and then add bathrooms 
-Use our tool to help gauge housing prices before making a purchase
+1) Use our tool to help gauge housing prices before making a purchase
+2) Increase the square footage of living space by adding an extension to an existing house
+3) Purchase a less expensive home and then add bathrooms 
